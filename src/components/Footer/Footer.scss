@@ -4,9 +4,14 @@
   &-partners {
     display: flex;
     align-items: center;
+    margin-top: -40px;
 
     &-item {
       margin-right: 120px;
+
+      &:first-child {
+        margin-left: -40px;
+      }
 
       &:last-child {
         margin-right: 0;
