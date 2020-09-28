@@ -1,0 +1,73 @@
+.sectors {
+  padding: 50px 0;
+
+  &-title {
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    color: #fff;
+    text-align: center;
+  }
+
+  &-subtitle {
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin: 42px 0 30px;
+  }
+
+  &-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    &-item {
+      position: relative;
+      width: calc((100% / 3) - 70px);
+      height: 240px;
+      display: flex;
+      align-items: center;
+      margin-bottom: 30px;
+
+      &-name {
+        width: 100%;
+        text-align: center;
+        font-size: 23px;
+        line-height: 30px;
+        color: #222222;
+        background: rgba(255, 255, 255, 0.83);
+      }
+
+      &-tooltip {
+        position: absolute;
+        left: 100%;
+        width: 440px;
+        pointer-events: none;
+        appearance: none;
+        background-color: #DADADA;
+        padding: 16px 16px 16px 75px;
+        clip-path: polygon(100% 0, 100% 100%, 75px 100%, 0 50%, 75px 0);
+        //opacity: 0;
+        z-index: 1;
+        animation: fadeIn 0.4s ease-in-out;
+
+        &-switched {
+          left: initial;
+          right: 100%;
+          clip-path: polygon(calc(100% - 75px) 0, 100% 50%, calc(100% - 75px) 100%, 0 100%, 0 0);
+          padding: 16px 75px 16px 16px;
+        }
+      }
+    }
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
