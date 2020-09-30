@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/G-T-W-Y/Ambient-air-quality-and-health/static/css/main.c886b8f7.chunk.css",
+    "main.js": "/G-T-W-Y/Ambient-air-quality-and-health/static/js/main.acf77c94.chunk.js",
+    "main.js.map": "/G-T-W-Y/Ambient-air-quality-and-health/static/js/main.acf77c94.chunk.js.map",
+    "runtime-main.js": "/G-T-W-Y/Ambient-air-quality-and-health/static/js/runtime-main.3e7949fe.js",
+    "runtime-main.js.map": "/G-T-W-Y/Ambient-air-quality-and-health/static/js/runtime-main.3e7949fe.js.map",
+    "static/css/2.e0686c58.chunk.css": "/G-T-W-Y/Ambient-air-quality-and-health/static/css/2.e0686c58.chunk.css",
+    "static/js/2.dd8d3168.chunk.js": "/G-T-W-Y/Ambient-air-quality-and-health/static/js/2.dd8d3168.chunk.js",
+    "static/js/2.dd8d3168.chunk.js.map": "/G-T-W-Y/Ambient-air-quality-and-health/static/js/2.dd8d3168.chunk.js.map",
+    "index.html": "/G-T-W-Y/Ambient-air-quality-and-health/index.html",
+    "precache-manifest.e6fbcce2b73ee258311ff9d3caa9358b.js": "/G-T-W-Y/Ambient-air-quality-and-health/precache-manifest.e6fbcce2b73ee258311ff9d3caa9358b.js",
+    "service-worker.js": "/G-T-W-Y/Ambient-air-quality-and-health/service-worker.js",
+    "static/css/2.e0686c58.chunk.css.map": "/G-T-W-Y/Ambient-air-quality-and-health/static/css/2.e0686c58.chunk.css.map",
+    "static/css/main.c886b8f7.chunk.css.map": "/G-T-W-Y/Ambient-air-quality-and-health/static/css/main.c886b8f7.chunk.css.map",
+    "static/js/2.dd8d3168.chunk.js.LICENSE.txt": "/G-T-W-Y/Ambient-air-quality-and-health/static/js/2.dd8d3168.chunk.js.LICENSE.txt",
+    "static/media/GC_logo.svg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/GC_logo.e60be19e.svg",
+    "static/media/ITN_logo.svg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/ITN_logo.899cd278.svg",
+    "static/media/city_planing.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/city_planing.f8f67844.jpg",
+    "static/media/energetics.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/energetics.43f9dac6.jpg",
+    "static/media/energy.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/energy.fb084e1e.jpg",
+    "static/media/HeroBlock.scss": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/hero-bg.5d86912d.jpg",
+    "static/media/industry.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/industry.5ec44869.jpg",
+    "static/media/shid_emozhl_logo.svg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/shid_emozhl_logo.8dd4ef71.svg",
+    "static/media/slide-1.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/slide-1.7e1db0da.jpg",
+    "static/media/slide-2.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/slide-2.12a25e24.jpg",
+    "static/media/slide-3.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/slide-3.638ec227.jpg",
+    "static/media/slide-4.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/slide-4.8a21e8b7.jpg",
+    "static/media/slide-5.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/slide-5.bb9f49bb.jpg",
+    "static/media/transport.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/transport.65643b05.jpg",
+    "static/media/utilisation.jpg": "/G-T-W-Y/Ambient-air-quality-and-health/static/media/utilisation.a8b6caee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e7949fe.js",
+    "static/css/2.e0686c58.chunk.css",
+    "static/js/2.dd8d3168.chunk.js",
+    "static/css/main.c886b8f7.chunk.css",
+    "static/js/main.acf77c94.chunk.js"
+  ]
+}
