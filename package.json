@@ -2,7 +2,7 @@
   "name": "my-app-vr84-bootcamp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/G-T-W-Y/Ambient-air-quality-and-health",
+  "homepage": "https://alevoldon.github.io/my-app-vr84-bootcamp/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
