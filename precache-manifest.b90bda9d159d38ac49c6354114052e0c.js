@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3649114e1b8210a0db87a42975ade977",
+    "revision": "614b6e5b0d642538a03eb074fb9c798e",
     "url": "/my-app-vr84-bootcamp/index.html"
   },
   {
-    "revision": "6a954f301475ef913074",
+    "revision": "a4f18482f8e5f7679449",
     "url": "/my-app-vr84-bootcamp/static/css/2.e0686c58.chunk.css"
   },
   {
-    "revision": "8ba4d32c8faf49097648",
-    "url": "/my-app-vr84-bootcamp/static/css/main.bf210810.chunk.css"
+    "revision": "efd29b7ebb3b216e8eff",
+    "url": "/my-app-vr84-bootcamp/static/css/main.d829ffa2.chunk.css"
   },
   {
-    "revision": "6a954f301475ef913074",
-    "url": "/my-app-vr84-bootcamp/static/js/2.dd8d3168.chunk.js"
+    "revision": "a4f18482f8e5f7679449",
+    "url": "/my-app-vr84-bootcamp/static/js/2.d99ac69e.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/my-app-vr84-bootcamp/static/js/2.dd8d3168.chunk.js.LICENSE.txt"
+    "url": "/my-app-vr84-bootcamp/static/js/2.d99ac69e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ba4d32c8faf49097648",
-    "url": "/my-app-vr84-bootcamp/static/js/main.3c1db7d9.chunk.js"
+    "revision": "efd29b7ebb3b216e8eff",
+    "url": "/my-app-vr84-bootcamp/static/js/main.406b76ed.chunk.js"
   },
   {
     "revision": "9b8e204f6eb00add9fc5",

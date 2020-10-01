@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-app-vr84-bootcamp/static/css/main.bf210810.chunk.css",
-    "main.js": "/my-app-vr84-bootcamp/static/js/main.3c1db7d9.chunk.js",
-    "main.js.map": "/my-app-vr84-bootcamp/static/js/main.3c1db7d9.chunk.js.map",
+    "main.css": "/my-app-vr84-bootcamp/static/css/main.d829ffa2.chunk.css",
+    "main.js": "/my-app-vr84-bootcamp/static/js/main.406b76ed.chunk.js",
+    "main.js.map": "/my-app-vr84-bootcamp/static/js/main.406b76ed.chunk.js.map",
     "runtime-main.js": "/my-app-vr84-bootcamp/static/js/runtime-main.4bf6a77f.js",
     "runtime-main.js.map": "/my-app-vr84-bootcamp/static/js/runtime-main.4bf6a77f.js.map",
     "static/css/2.e0686c58.chunk.css": "/my-app-vr84-bootcamp/static/css/2.e0686c58.chunk.css",
-    "static/js/2.dd8d3168.chunk.js": "/my-app-vr84-bootcamp/static/js/2.dd8d3168.chunk.js",
-    "static/js/2.dd8d3168.chunk.js.map": "/my-app-vr84-bootcamp/static/js/2.dd8d3168.chunk.js.map",
+    "static/js/2.d99ac69e.chunk.js": "/my-app-vr84-bootcamp/static/js/2.d99ac69e.chunk.js",
+    "static/js/2.d99ac69e.chunk.js.map": "/my-app-vr84-bootcamp/static/js/2.d99ac69e.chunk.js.map",
     "index.html": "/my-app-vr84-bootcamp/index.html",
-    "precache-manifest.fbb294806cbb61fb0f5cd8bec237c45b.js": "/my-app-vr84-bootcamp/precache-manifest.fbb294806cbb61fb0f5cd8bec237c45b.js",
+    "precache-manifest.b90bda9d159d38ac49c6354114052e0c.js": "/my-app-vr84-bootcamp/precache-manifest.b90bda9d159d38ac49c6354114052e0c.js",
     "service-worker.js": "/my-app-vr84-bootcamp/service-worker.js",
     "static/css/2.e0686c58.chunk.css.map": "/my-app-vr84-bootcamp/static/css/2.e0686c58.chunk.css.map",
-    "static/css/main.bf210810.chunk.css.map": "/my-app-vr84-bootcamp/static/css/main.bf210810.chunk.css.map",
-    "static/js/2.dd8d3168.chunk.js.LICENSE.txt": "/my-app-vr84-bootcamp/static/js/2.dd8d3168.chunk.js.LICENSE.txt",
+    "static/css/main.d829ffa2.chunk.css.map": "/my-app-vr84-bootcamp/static/css/main.d829ffa2.chunk.css.map",
+    "static/js/2.d99ac69e.chunk.js.LICENSE.txt": "/my-app-vr84-bootcamp/static/js/2.d99ac69e.chunk.js.LICENSE.txt",
     "static/media/GC_logo.svg": "/my-app-vr84-bootcamp/static/media/GC_logo.e60be19e.svg",
     "static/media/ITN_logo.svg": "/my-app-vr84-bootcamp/static/media/ITN_logo.899cd278.svg",
     "static/media/city_planing.jpg": "/my-app-vr84-bootcamp/static/media/city_planing.f8f67844.jpg",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.4bf6a77f.js",
     "static/css/2.e0686c58.chunk.css",
-    "static/js/2.dd8d3168.chunk.js",
-    "static/css/main.bf210810.chunk.css",
-    "static/js/main.3c1db7d9.chunk.js"
+    "static/js/2.d99ac69e.chunk.js",
+    "static/css/main.d829ffa2.chunk.css",
+    "static/js/main.406b76ed.chunk.js"
   ]
 }
