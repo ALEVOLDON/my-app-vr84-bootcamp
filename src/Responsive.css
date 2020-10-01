@@ -4,14 +4,16 @@
     overflow-x: hidden;
   }
 
+  /* HERO */
+
   .hero {
-    min-height: 70vh;
+    min-height: 100vh;
     padding: 0;
   }
 
   .hero-partners img {
     width: 100%;
-    max-width: 60px;
+    max-width: 70px;
   }
 
   .hero-partners-item:first-child {
@@ -28,21 +30,139 @@
 
   .hero-title {
     width: 100%;
-    max-width: 340px;
+    /* max-width: 340px; */
     font-style: normal;
     font-weight: normal;
-    font-size: 22px;
+    font-size: 30px;
     line-height: 37px;
-    padding: 30px 20px;
+    padding: 140px 20px;
   }
 
   .hero-link {
-    width: 70%;
+    width: 100%;
     padding: 24px 0;
     font-size: 28px;
     line-height: 33px;
     text-align: center;
   }
+
+  /* FACTS */
+
+  .facts {
+    padding: 70px 40px 50px;
+  }
+
+  .facts-title {
+    font-size: 27px;
+    line-height: 32px;
+  }
+
+  .facts-slide-desc {
+    width: 100%;
+    max-width: 280px;
+    font-size: 17px;
+    line-height: 20px;
+  }
+
+  .facts-pagination {
+    margin-top: 0;
+  }
+
+  .facts-pagination-bullet {
+    width: 12px;
+    height: 12px;
+  }
+
+  /* AIR-Q */
+
+  .air-q {
+    padding: 0;
+  }
+
+  .air-q-title {
+    font-size: 27px;
+    line-height: 32px;
+  }
+
+  .air-q-map {
+    margin: 26px 20px;
+  }
+
+  .air-q-text {
+    font-size: 17px;
+    line-height: 20px;
+    padding: 0 20px;
+  }
+
+  /* SECTORS */
+
+  .sectors-title {
+    font-size: 27px;
+    line-height: 32px;
+    margin-bottom: 33px;
+  }
+
+  .sectors-subtitle {
+    display: none;
+  }
+
+  .sectors-list {
+    flex-direction: column;
+    
+  }
+
+  .sectors-list-item {
+    width: 90%;
+    margin: 20px;
+  }
+
+  .sectors-list-item-tooltip {
+    max-width: 95%;
+    left: -10px;
+    bottom: -100px;
+    padding: 16px;
+    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 100%, 0 0);
+  }
+
+  /* FOOTER */
+
+  .footer-partners {
+    justify-content: space-between;
+    margin: 0;
+  }
+
+  .footer-partners-item {
+    width: 100%;
+    max-width: 70px;
+    margin: 20px;
+  }
+
+  .footer-partners-item:first-child {
+    margin-left: 20px;
+  }
+
+  .footer-partners-item:last-child {
+    margin-right: 20px;
+  }
+
+  .footer-text-wrap {
+    flex-direction: column;
+  }
+
+  .footer-nav {
+    text-align: center;
+  }
+
+  .footer-nav-text {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer-text {
+    margin-top: 50px;;
+    text-align: center;
+  }
+
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
