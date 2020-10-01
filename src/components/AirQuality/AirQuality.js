@@ -26,7 +26,7 @@ const AirQuality = () => {
   }, []);
 
   return (
-    <section className={"air-q container"}>
+    <section className={"air-q container"} id="quality">
       <h2 className="air-q-title">
         Индекс качества воздуха в режиме реального времени
       </h2>
