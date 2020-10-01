@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "614b6e5b0d642538a03eb074fb9c798e",
+    "revision": "bf6b46512684b940221c282f25ecd95d",
     "url": "/my-app-vr84-bootcamp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-app-vr84-bootcamp/static/css/2.e0686c58.chunk.css"
   },
   {
-    "revision": "efd29b7ebb3b216e8eff",
-    "url": "/my-app-vr84-bootcamp/static/css/main.d829ffa2.chunk.css"
+    "revision": "91adae91837ebae8545d",
+    "url": "/my-app-vr84-bootcamp/static/css/main.c97368af.chunk.css"
   },
   {
     "revision": "a4f18482f8e5f7679449",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-app-vr84-bootcamp/static/js/2.d99ac69e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efd29b7ebb3b216e8eff",
-    "url": "/my-app-vr84-bootcamp/static/js/main.406b76ed.chunk.js"
+    "revision": "91adae91837ebae8545d",
+    "url": "/my-app-vr84-bootcamp/static/js/main.15356cea.chunk.js"
   },
   {
     "revision": "9b8e204f6eb00add9fc5",
