@@ -13,7 +13,7 @@
     font-weight: normal;
     font-size: 23px;
     line-height: 27px;
-    color: #FFFFFF;
+    color: #ffffff;
     margin: 42px 0 30px;
   }
 
@@ -45,7 +45,7 @@
         width: 440px;
         pointer-events: none;
         appearance: none;
-        background-color: #DADADA;
+        background-color: #dadada;
         padding: 16px 16px 16px 75px;
         clip-path: polygon(100% 0, 100% 100%, 75px 100%, 0 50%, 75px 0);
         //opacity: 0;
@@ -55,7 +55,13 @@
         &-switched {
           left: initial;
           right: 100%;
-          clip-path: polygon(calc(100% - 75px) 0, 100% 50%, calc(100% - 75px) 100%, 0 100%, 0 0);
+          clip-path: polygon(
+            calc(100% - 75px) 0,
+            100% 50%,
+            calc(100% - 75px) 100%,
+            0 100%,
+            0 0
+          );
           padding: 16px 75px 16px 16px;
         }
       }
